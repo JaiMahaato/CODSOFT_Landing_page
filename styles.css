@@ -226,3 +226,8 @@ footer {
 footer p {
     font-size: 0.9rem;
 }
+.hero{
+    background-image: url('air.jpeg');
+    background-size: cover;
+}
+
